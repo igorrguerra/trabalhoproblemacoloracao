@@ -36,4 +36,4 @@ demonstra que o DSatur encontrou uma solução de alta qualidade neste caso.
 
 ## Vídeo explicativo
 
-> 🔗 _(insira aqui o link do vídeo após a gravação)_
+> 🔗 _(https://youtu.be/Mloy0kJWXiw)_
